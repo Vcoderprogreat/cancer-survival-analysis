@@ -20,4 +20,4 @@ This project analyzes survival outcomes in a clinical cohort of breast cancer pa
 > **Note:** The datased is loaded programatically; no separate CSV is required. 
 
 ## License
-This project is for educational and research purposes. Data is sourced from the GBSG2 dataset.
+This project is for educational purposes. Data is sourced from the GBSG2 dataset.
